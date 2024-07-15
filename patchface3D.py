@@ -68,6 +68,10 @@ def sym_g_mod(field_in, sym_in):
     return field_out
 
 
+
+
+
+
 ### worldmap view --> 5 faces ###
 # translated from /home/atnguyen/matlab/atn_tools/patchface3D.m
 
